@@ -7,6 +7,6 @@ class Water(BaseModel):
     Chloramines : float
     Sulfate: float
     Conductivity: float
-    Organic_carbons: float
-    Trihalomethanses: float
+    Organic_carbon: float
+    Trihalomethanes: float
     Turbidity: float
